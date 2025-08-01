@@ -1,0 +1,14 @@
+Part,Purpose,Amount,Cost
+plastic parts,parts for chassis and body,n/a,0 (3d printed)
+generic sub-micro servo,steering,1,0 (already have)
+esp32,signals and bluetooth,1,0 (already have)
+d882 npn transistor,motor controller,2,0 (scrapped from stuff)
+20p03 p-channel mosfet,motor controller,2,0 (scrapped from stuff)
+73t02gh n-channel mosfet,motor controller,2,0 (scrapped from stuff)
+schottky diode,flyback diodes,4,0 (already have)
+unknown dc motor,motor,1,0 (scrapped from stuff)
+2s lipo,power,1,0 (already have)
+10k ohm resistor,motor controller,2,0 (already have)
+1k ohm resistor,motor controller,2,0 (already have)
+,,,total
+,,,$0
