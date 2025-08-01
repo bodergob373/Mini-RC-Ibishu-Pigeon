@@ -8,6 +8,9 @@ Pigeons are funny and a tiny RC one would be cool.
 
 ## Model
 
+<img width="832" height="554" alt="image" src="https://github.com/user-attachments/assets/56ed285d-6f13-43f0-a535-c0e03c3c5038" />
+
+
 ## Wiring
 There is no PCB.
 <img width="1046" height="663" alt="image" src="https://github.com/user-attachments/assets/5db7a764-9ab0-4a14-8e6e-918a02fe465b" />
