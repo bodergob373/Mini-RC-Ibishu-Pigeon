@@ -12,7 +12,7 @@ Thought of this project, found motors, micro servos, and batteries from old proj
 
 <img width="967" height="509" alt="image" src="https://github.com/user-attachments/assets/b4e8eeff-43bd-4c2f-ac9e-b8f8e9ed0460" />
 
-**Total time spent: 6h**
+**Total time spent: 7h**
 
 
 
@@ -30,4 +30,4 @@ I did more research and made the wiring diagram. I had the idea to use rubber ba
 <img width="611" height="477" alt="image" src="https://github.com/user-attachments/assets/ea4a28ee-53af-44ce-8f3c-5eee6431bea1" />
 
 
-**Total time spent: 6h**
+**Total time spent: 5h**
