@@ -12,14 +12,14 @@ Thought of this project, found motors, micro servos, and batteries from old proj
 
 <img width="967" height="509" alt="image" src="https://github.com/user-attachments/assets/b4e8eeff-43bd-4c2f-ac9e-b8f8e9ed0460" />
 
-**Total time spent: 7h**
+**time spent: 7h**
 
 
 
 # July 29th:
 Researched more about the motor controller. Found out that 2 P-channel and 2 N-channel MOSFETS are needed for reverse in an H-bridge. NPN transistors are also needed for handling higher volts and stuff. I also found flyback diodes and resistors and tested their current handling. I researched how to get them without ordering, but found some on a broken esc laying around. I took them off and searched their numbers and they're exactly what I need.
 
-**Total time spent: 3h**
+**time spent: 3h**
 
 
 
@@ -30,11 +30,11 @@ I did more research and made the wiring diagram. I had the idea to use rubber ba
 <img width="611" height="477" alt="image" src="https://github.com/user-attachments/assets/ea4a28ee-53af-44ce-8f3c-5eee6431bea1" />
 
 
-**Total time spent: 5h**
+**time spent: 5h**
 
 # August 3rd:
 I remodeled the front suspension arm and added places for the electronics. For more torque and better acceleration, I added a gearbox for reduction.
 
 <img width="943" height="468" alt="image" src="https://github.com/user-attachments/assets/21ae6341-6eb2-4ca7-8cf7-ff2a54065f28" />
 
-**Total time spent: 3h**
+**time spent: 3h**
