@@ -17,3 +17,18 @@ There is no PCB.
 
 ## BOM
 https://docs.google.com/spreadsheets/d/1GBQPec6xRtrxGWkxGZz8EKkGEyVsSLRYFH8I8gakP4w/edit?usp=sharing
+
+| Part                        | Purpose                      | Amount | Cost             |
+|-----------------------------|------------------------------|--------|------------------|
+| Plastic parts               | Parts for chassis and body   | n/a    | $0 (3D printed)  |
+| Generic sub-micro servo     | Steering                     | 1      | $0 (already have)|
+| ESP32                       | Signals and Bluetooth        | 1      | $0 (already have)|
+| D882 NPN transistor         | Motor controller             | 2      | $0 (scrapped)    |
+| 20P03 P-channel MOSFET      | Motor controller             | 2      | $0 (scrapped)    |
+| 73T02GH N-channel MOSFET    | Motor controller             | 2      | $0 (scrapped)    |
+| Schottky diode              | Flyback diodes               | 4      | $0 (already have)|
+| Unknown DC motor            | Motor                        | 1      | $0 (scrapped)    |
+| 2S LiPo                     | Power                        | 1      | $0 (already have)|
+| 10k ohm resistor            | Motor controller             | 2      | $0 (already have)|
+| 1k ohm resistor             | Motor controller             | 2      | $0 (already have)|
+|                             | **Total**                    |        | **$0**           |
