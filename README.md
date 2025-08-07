@@ -8,7 +8,8 @@ Pigeons are funny and a tiny RC one would be cool.
 
 ## Model
 
-<img width="832" height="554" alt="image" src="https://github.com/user-attachments/assets/56ed285d-6f13-43f0-a535-c0e03c3c5038" />
+<img width="713" height="514" alt="Screenshot 2025-08-07 164958" src="https://github.com/user-attachments/assets/47566071-e82a-44e5-bd3b-dc296d1e9842" />
+<img width="785" height="784" alt="Screenshot 2025-08-07 165039" src="https://github.com/user-attachments/assets/49e8693c-9694-4037-840f-ee5e5c650385" />
 
 
 ## Wiring
